@@ -1,0 +1,7 @@
+@use "global" as *;
+.article__info {
+  @include mq(md) {
+  }
+  @include mq(xl) {
+  }
+}

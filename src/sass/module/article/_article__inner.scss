@@ -1,0 +1,13 @@
+@use "global" as *;
+.article {
+  // size
+  display: inline-block;
+  max-width: rem(375);
+  width: 100%;
+  // decoration
+  background-color: #111;
+  @include mq(md) {
+  }
+  @include mq(xl) {
+  }
+}

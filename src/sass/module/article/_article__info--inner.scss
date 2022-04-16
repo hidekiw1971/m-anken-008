@@ -1,0 +1,16 @@
+@use "global" as *;
+.article__info--inner {
+  // font
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: rem(14);
+  font-weight: $normal;
+  // letter-spacing: rem(1);
+  line-height: 1.4285;
+  // decoration
+  color: #fff;
+  border: 1px solid #fff;
+  @include mq(md) {
+  }
+  @include mq(xl) {
+  }
+}
