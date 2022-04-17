@@ -1,6 +1,11 @@
 @use "global" as *;
 .article__text {
   @include mq(md) {
+    // size
+    // decoration
+    overflow: hidden;
+    // space
+    padding-right: rem(48);
   }
   @include mq(xl) {
   }

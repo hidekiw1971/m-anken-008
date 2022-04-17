@@ -1,5 +1,9 @@
 @use "global" as *;
 .article__info--inner {
+  // size
+  display: block;
+  width: rem(99);
+  height: rem(31);
   // font
   font-family: "Noto Sans JP", sans-serif;
   font-size: rem(14);
@@ -9,6 +13,13 @@
   // decoration
   color: #fff;
   border: 1px solid #fff;
+  overflow: hidden;
+
+  // space
+  padding-top: rem(6);
+  // padding-right: rem(21);
+  padding-bottom: rem(5);
+  // padding-left: rem(20);
   @include mq(md) {
   }
   @include mq(xl) {

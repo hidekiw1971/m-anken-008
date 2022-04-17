@@ -4,7 +4,7 @@
 
 ## 概要
 
-- ｘｘｘ
+- codepus 模擬案件（article）
 - https://www.notion.so/000_web-component-index-c4b399010bf342e9b4e2ed516cf9c730
 
 ## 仕様
@@ -33,8 +33,7 @@
 
 ## portfolio url:
 
-- https://c-0000.wtb.cfbx.jp/
-- https://css-md-0000.wtb.cfbx.jp/
+- https://c-0056.wtb.cfbx.jp/
 
 ## 参考にしたサイト
 
@@ -42,6 +41,8 @@
 
 ## 更新履歴
 
+- 2022/4/17 safari で表示崩れ発見。対応前に一度保存。
+- 2022/4/17 sp、pc 完成
 - 2022/4/17 sp サイズ作成中
 
 ## 環境・使い方
